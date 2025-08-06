@@ -54,7 +54,7 @@ function App() {
 
   return (
     <AuthProvider>
-      <Router>
+      <Router basename="/arroz_ia">
         <Routes>
           {/* Rutas públicas */}
           <Route path="/" element={<Login />} />
