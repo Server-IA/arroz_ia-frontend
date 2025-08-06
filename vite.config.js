@@ -29,5 +29,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: "/arroz_ia",
+  base: "/arroz_ia/",
 });
